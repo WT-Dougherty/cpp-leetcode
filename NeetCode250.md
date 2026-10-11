@@ -66,7 +66,7 @@ With this in mind, it's always best to start by trying to define your subproblem
 ## Stack (14)
 
 - [ ] Baseball Game — LeetCode #682
-- [ ] Valid Parentheses — LeetCode #20
+- [x] Valid Parentheses — LeetCode #20
 - [ ] Implement Stack Using Queues — LeetCode #225
 - [ ] Implement Queue using Stacks — LeetCode #232
 - [ ] Min Stack — LeetCode #155
